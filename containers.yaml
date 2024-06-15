@@ -3,3 +3,8 @@
   command:
     - sleep
     - 10000
+- name: ubuntu2
+  image: ubuntu
+  command:
+    - sleep
+    - 10000
