@@ -3,8 +3,4 @@
   command:
     - sleep
     - 10000
-- name: nginx
-  image: nginx
-  command:
-    - sleep
-    - 10000
+
